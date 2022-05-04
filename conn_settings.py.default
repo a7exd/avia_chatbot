@@ -1,0 +1,3 @@
+# -*- coding: utf-8 -*-
+GROUP_ID = your_group_id
+TOKEN = 'your_token'

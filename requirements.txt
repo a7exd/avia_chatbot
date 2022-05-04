@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+coverage==6.2
+idna==3.3
+Pillow==9.0.1
+pony==0.7.16
+psycopg2==2.9.3
+requests==2.27.1
+urllib3==1.26.8
+vk-api==11.9.7
